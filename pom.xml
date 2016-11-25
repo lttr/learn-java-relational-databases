@@ -30,7 +30,7 @@
                     <username>sa</username>
                     <sources>
                         <script>
-                            <sourceFile>java-and-databases_baseline.sql</sourceFile>
+                            <sourceFile>learn-java-relational-databases_baseline.sql</sourceFile>
                         </script>
                     </sources>
                 </configuration>
